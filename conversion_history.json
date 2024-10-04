@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2024-10-04 11:01:02",
+    "from_currency": "INR",
+    "to_currency": "USD",
+    "amount": 1234.0,
+    "converted_amount": 1234.0
+  },
+  {
+    "timestamp": "2024-10-04 11:01:40",
+    "from_currency": "USD",
+    "to_currency": "INR",
+    "amount": 800.0,
+    "converted_amount": 67216.0
+  }
+]
